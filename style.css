@@ -1,0 +1,12 @@
+p{
+color: aliceblue;
+}
+#hello{
+    color: aliceblue;
+}
+.heading2 em{
+    font: outline;
+    font-style: unset;
+    color: rgb(214, 93, 71);
+    background-color: violet;
+}
